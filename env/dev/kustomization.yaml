@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/nikhilshah28/demo-app
-  newTag: sha256:9d64d964a50d0ac4ec9197f1c3dba3fe22b78ab9360f94ae04b8f5dffbe731f6
+  newTag: a8e824d310229e0ce1a3676872d273b9284d7cd5
